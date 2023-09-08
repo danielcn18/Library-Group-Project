@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1",
+        "image": "sorcerers.jpg",
+        "author": "J. K. Rowling",
+        "authorImg": "jkRowling.jpg",
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "published": "1997",
+        "description": "Harry Potter goes on a journey with his 2 best friends to find the sorcerer's stone that Voldemort is after.",
+        "description2":"Harry Potter and the Sorcerer's Stone is the inaugural tale in J.K. Rowling's globally renowned fantasy series. The story follows an eleven-year-old boy named Harry Potter who, after a lifetime of neglect from his cruel aunt and uncle, discovers he is a wizard. He attends Hogwarts School of Witchcraft and Wizardry, makes friends like Ron and Hermione, and learns of the dark past that links him to the sinister Lord Voldemort. As Harry delves deeper into the magical world, he uncovers the mystery of the Sorcerer’s Stone, an object of immense power, and faces challenges that test his courage and determination."
+    },
+    {
+        "id": "2",
+        "image": "lightning.jpg",
+        "author": "Rick Riordan",
+        "authorImg": "rickRiordan.jpg",
+        "name": "The Lightning Theif",
+        "published": "2005",
+        "description": "Percy Jackson finds out that his father is none other than Poseidon and has to prove his innnocence to the Olympian king Zeus.",
+        "description2": "The Lightning Thief is the first installment in Rick Riordan's Percy Jackson & the Olympians series. The novel follows twelve-year-old Percy Jackson, who discovers he is not just an ordinary boy, but a demigod—the son of Poseidon. After being accused of stealing Zeus's lightning bolt, the most powerful weapon in the Olympian arsenal, Percy embarks on a quest across the United States with his friends Annabeth and Grover to retrieve the bolt and prevent a war among the gods. Along the way, Percy confronts mythological monsters, deciphers ancient prophecies, and comes to terms with his newfound identity and powers"
+    },
+    {
+        "id": "3",
+        "image": "narnia.jpeg",
+        "author": "C. S. Lewis",
+        "authorImg": "cslewis.jpg",
+        "name": "The Lion, The Witch, and The Wardrobe",
+        "published": "1950",
+        "description": "The Lion, the Witch, and the Wardrobe is where four siblings discover a magical land called Narnia through a wardrobe, where they join the battle against the evil White Witch with the help of the majestic lion, Aslan.",
+        "description2":"The Lion, the Witch, and the Wardrobe is the second published book in C.S. Lewis's classic fantasy series, The Chronicles of Narnia. Set against the backdrop of World War II, the story unfolds when the four Pevensie siblings  Peter, Susan, Edmund, and Lucy  are evacuated from London to the countryside. While exploring their temporary home, Lucy stumbles upon a magical wardrobe that serves as a portal to the fantastical land of Narnia. There, the children become embroiled in a battle between the benevolent lion Aslan and the malevolent White Witch, who has cursed Narnia to endure endless winter. As the children embrace their roles in the prophecy of Narnia's liberation, themes of sacrifice, betrayal, and redemption come to the fore."
+    },
+    {
+        "id": "4",
+        "image": "throne.jpg",
+        "author": "George R. R. Martin",
+        "authorImg": "georger.r.martian.jpg",
+        "name": "A Game of Thrones",
+        "published": "1996",
+        "description": "Game of Thrones, the first book in Ice and Fire series, is a medieval-inspired fantasy novel where noble houses compete for control in a land threatened by dark forces from the North.",
+        "description2":"A Game of Thrones is the first novel in George R.R. Martin's epic fantasy series, A Song of Ice and Fire. Set in the fictional continents of Westeros and Essos, the narrative weaves a tale of power, loyalty, and betrayal among noble families vying for control of the Iron Throne and the Seven Kingdoms of Westeros. At the heart of the story is the Stark family of Winterfell, led by Lord Eddard Stark, who becomes the Hand of the King and is thrust into the deadly political intrigue of the capital, King's Landing. Meanwhile, to the far north, an ancient and ominous threat in the form of the White Walkers begins to stir, and across the Narrow Sea, Daenerys Targaryen, the last scion of a deposed dynasty, embarks on her journey to reclaim her birthright. The novel intricately explores themes of power, honor, and the nature of moral compromise in a land where winter can last for years."
+    },
+    {
+        "id": "5",
+        "image": "fellowship.jpg",
+        "author": "J. R. R. Tolkien",
+        "authorImg": "jrrtolkein.jpg",
+        "name": "The Fellowship of the Ring",
+        "published": "1954",
+        "description": "The Fellowship of the Ring, the first volume in the Lord of the Rings trilogy, follows Frodo Baggins and a diverse group of companions on a perilous journey to destroy a powerful ring that could plunge Middle-earth into eternal darkness.",
+        "description2":"The Fellowship of the Ring is the first volume in J.R.R. Tolkien's monumental fantasy trilogy, The Lord of the Rings. The story begins in the peaceful Shire, where Frodo Baggins inherits a seemingly innocuous gold ring from his uncle, Bilbo. However, he soon learns that it is the One Ring, a powerful artifact created by the Dark Lord Sauron to control all other magical rings and dominate Middle-earth. The malevolent Sauron is desperately seeking the ring to consolidate his power, and Frodo, guided by the wizard Gandalf, embarks on a perilous journey to destroy it in the fires of Mount Doom where it was forged. Joined by a diverse group, including men, an elf, a dwarf, and his own hobbit friends, the Fellowship of the Ring faces numerous challenges and adversaries, testing their loyalty and courage. The novel masterfully interweaves themes of friendship, power, and the struggle between good and evil in a richly imagined world."
+    },
+    {
+        "id": "6",
+        "image": "hunger.jpg",
+        "author": "Suzanne Collins",
+        "authorImg": "suzanneCollins.jpg",
+        "name": "Hunger Games",
+        "published": "2008",
+        "description": "The Hunger Games is where protagonist Katniss Everdeen volunteers to participate in a televised fight-to-the-death competition in a society that uses the games for control and entertainment.",
+        "description2":"The Hunger Games is the first book in Suzanne Collins' dystopian trilogy of the same name. Set in the oppressive nation of Panem, which consists of a wealthy Capitol and twelve surrounding, poorer districts, the story centers on Katniss Everdeen, a resourceful teenager from District 12. Every year, the Capitol enforces its dominance by requiring each district to send one boy and one girl, called tributes, to participate in the televised Hunger Games—a brutal fight to the death. When Katniss's younger sister is selected as a tribute, Katniss volunteers to take her place. Paired with Peeta Mellark, the duo enters the perilous games, navigating alliances, betrayal, and deadly obstacles. Beyond the physical danger, the games are also a stage for political manipulation and resistance, and Katniss's actions spark unrest against the Capitol's tyranny. The novel explores themes of survival, government control, and the moral quandaries of violence and sacrifice."
+    },
+    {
+        "id": "7",
+        "image": "twilight.jpg",
+        "author": "Stephenie Meyer",
+        "authorImg": "stephenieMeyer.jpg",
+        "name": "Twilight, Book 1: Twilight",
+        "published": "2005",
+        "description": "Twilight, the first book in the Twilight series, chronicles the forbidden romance between mortal Bella Swan and the enigmatic vampire, Edward Cullen, in the rain-soaked town of Forks, Washington.",
+        "description2":"Twilight, the first book in Stephenie Meyer's bestselling series, introduces readers to seventeen-year-old Bella Swan, who relocates to the cloudy town of Forks, Washington, to live with her father. There, she becomes irresistibly drawn to her enigmatic classmate, Edward Cullen. As their relationship deepens, Bella discovers that Edward is a vampire, but unlike others of his kind, the Cullen family abstains from drinking human blood, choosing to survive on animal blood instead. Their forbidden love story becomes increasingly complicated as Edward struggles to resist Bella's scent, and Bella faces dangers posed by a rival vampire coven. The novel delves into themes of love, identity, and the challenges of accepting someone despite their inherent flaws."
+    
+    },
+    {
+        "id": "8",
+        "image": "vagabond.jpg",
+        "author": " Takehiko Inoue",
+        "authorImg": "takhikoInoue.jpg",
+        "name": "Vagabond",
+        "published": "1998",
+        "description": "Vagabond depicts the life and journey of Miyamoto Musashi, one of Japan's most legendary swordsmen, as he seeks mastery in the way of the sword and personal enlightenment.",
+        "description2":"Vagabond is a manga series illustrated and written by Takehiko Inoue, based on the epic novel Musashi by Eiji Yoshikawa. The story chronicles the life of Miyamoto Musashi, a legendary samurai of the early Edo period. Starting from his days as the wild and brutish Shinmen Takezō, the narrative captures his transformation into the enlightened swordsman Musashi. Throughout his journey, Musashi confronts numerous challenges, battles formidable opponents, and delves into the philosophy of martial arts. Inoue's portrayal paints an intimate and detailed account of Musashi's relentless quest for self-improvement and mastery, blending intense action sequences with deep introspection. The manga touches on themes of ambition, the nature of conflict, and the continuous pursuit of one's purpose."
+    }
+]

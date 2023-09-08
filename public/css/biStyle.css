@@ -1,0 +1,69 @@
+/* bookInfo.ejs CSS Styles */
+
+.booksLink:link{
+    color: black;
+}
+
+.navbar{
+    position: sticky;
+    top: 0;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto auto auto auto;
+    height: 900px;
+    padding: 10%;
+    margin-top: -30px;
+}
+
+
+#contain{
+    height: auto;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    display: grid;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-gap: 20px;
+}
+
+#bookImage{
+    grid-column: 2 / 4;
+    grid-row: 2/5;
+    background-image: auto;
+    background-color: yellow;
+    align-items: center;    
+    width: 400px;
+    height: 500px;
+}
+
+#item2 {
+    grid-column: 2/2;
+    grid-row: 4/5;
+    width: 400px;
+    margin-top: 200px;
+    font-size: 20px;
+    text-align: center;
+   
+}
+   
+#item3{
+    grid-column: 4/8;
+    grid-row: 2/3;
+    width: 100%;
+    text-align: center;
+}
+
+#item4{
+    grid-column: 4/7;
+    grid-row: 3/4;
+    width: 70%;
+    text-align: center;
+    margin: 100px 15% 0 15%; /* margin: top, right, bottom, left */
+}

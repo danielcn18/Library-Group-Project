@@ -1,0 +1,8 @@
+<%- include("partials/header.ejs") -%>
+<div class="grid-container">
+    <img id="bookImage" src="/images/bookTitles/<%= book.image %>" alt="<%= book.name %>"></img>
+    <h3 id="item2">"<%= book.name %>"</h3>  
+    <h2 id="item3">By <%= book.author %></h2>
+    <p id="item4"><%= book.description2 %></p>
+</div>
+<%- include("partials/footer.ejs") -%>
